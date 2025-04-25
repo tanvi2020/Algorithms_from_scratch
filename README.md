@@ -17,4 +17,5 @@ Here are the algorithms I have implemented so far:
 terms
 
 💡 Why I Did This
+
 As an aspiring Data Scientist, I wanted to go beyond simply importing models. These projects helped me a lot to understand how ML algorithms work internally. What is the intuition and mathematics behind the algorithm and to also build a deeper foundation to confidently tackle real-world projects and interviews. 
